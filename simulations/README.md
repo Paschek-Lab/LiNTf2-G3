@@ -3,4 +3,4 @@ This folder contains input files for performing simulations of various mixtures 
 
 The studied systems are named by their respective salt mole fractions. For example, the folder [X_0.2000](X_0.2000/) contains the input files for the binary mixture with $x$($\mathrm{[Li][NTf_2]}$) = 0.2.
   - The subfolder [sim_483K/](X_0.2000/sim_483K/) contains the input files for the eqilibrated cubic simulation boxes at 483\,K.
-  - The subfolder [orthoboxy_483K/](X_0.2000/orthoboxy_483K/) contains the input files for MD simulations using an orthorhombic unit cell with $L_z/L_x=L_z/L_y\approx 2.7933596497$ according to the ``OrthoBoXY'' method
+  - The subfolder [orthoboxy_483K/](X_0.2000/orthoboxy_483K/) contains the input files for MD simulations at 483\,K using an orthorhombic unit cell with $L_z/L_x=L_z/L_y\approx 2.7933596497$ according to the ``OrthoBoXY'' method.
