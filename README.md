@@ -4,3 +4,4 @@ This folder contains input files for performing simulations of various mixtures 
 For each system, the equilibrated start configurations at 483 K are given. Subfolders "sim" contain configurations of MD simulations with cubic simulation boxes, whereas subfolders declared as "orthoboxy" contain orthorhomic MD simulation boxes used for employing the OrthoBoXY approach.
 
 
+$\zeta$
